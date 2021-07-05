@@ -22,6 +22,7 @@ isJump = False
 jumpCount = 10
 
 vel = 5
+speed = 140
 
 screen = pygame.display.set_mode((1000, 1000))
 
